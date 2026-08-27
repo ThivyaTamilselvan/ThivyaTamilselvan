@@ -17,5 +17,14 @@ into Business Analysis → AI Business Analyst → AI Consultant
 - Delivered retention risk recommendations
 - Tools: Python, Pandas, Jupyter Notebook
 
+### 🛍️ Mystery Shopping Analytics — Python Pandas
+- Cleaned 800+ mystery shopping records across 5 brands
+- Resolved 12 real-world data quality issues
+- Key Finding: Calvin Klein leads CX at 7.52 avg score
+- H&M & Zara identified for urgent intervention
+- Cities flagged: Delhi, Hyderabad & Kolkata
+- Tools: Python, Pandas, Jupyter Notebook
+
 ## 🌱 Currently Learning
-Python Pandas for Business Analysis
+Python Pandas for Business Analysis — 
+transitioning into AI Business Analyst role
