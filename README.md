@@ -25,6 +25,15 @@ into Business Analysis → AI Business Analyst → AI Consultant
 - Cities flagged: Delhi, Hyderabad & Kolkata
 - Tools: Python, Pandas, Jupyter Notebook
 
+### 🛒 RetailCo Customer & Sales Analytics
+- Analysed 3,000+ retail orders across 3 years
+- Cleaned messy customer master dataset
+- Built 4-chart sales performance dashboard
+- Key Finding: Technology drives 59% of revenue
+- 2024 sales declining — root cause identified
+- Tools: Python, Pandas, Matplotlib, Seaborn
+- [View Dashboard](RetailCo_Dashboard.png)
+
 ## 🌱 Currently Learning
 Python Pandas for Business Analysis — 
 transitioning into AI Business Analyst role
